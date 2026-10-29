@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Fresh Animations Compatability for mob variants",
+    "pack_format": 88,
+    "min_format": [88, 0],
+    "max_format": [97, 1]
+  }
+}
