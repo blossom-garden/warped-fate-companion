@@ -3,11 +3,11 @@
   "texture_replacements": [
     {
       "type": "replace_adult_texture",
-      "replacement": "warped-fate:entity/ghast/neon/cyan/happy_ghast"
+      "replacement": "warped-fate:entity/ghast/deep_dark/cyan/happy_ghast"
     },
     {
       "type": "replace_baby_texture",
-      "replacement": "warped-fate:entity/ghast/neon/cyan/happy_ghast_baby"
+      "replacement": "warped-fate:entity/ghast/deep_dark/cyan/happy_ghast_baby"
     }
   ],
   "spawn_conditions": [
